@@ -50,3 +50,4 @@ rsconnect/
 
 # VS code temp files
 *_files/
+*.html
