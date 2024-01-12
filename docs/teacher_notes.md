@@ -28,6 +28,8 @@ LECTURE: [Science, truth, and honesty](science_truth_honesty.pptx) (2 hours). Mo
 
 WORKSHOP: [Topic and ethics](topic_ethics.html) (2 hours). Introduce the students to the idea that they will be designing a group project, and start the process of thinking about ethical issues. They are not expected to come up with a final topic, or a final design in this workshop. **TA**.
 
+TUTORIAL: [Understanding methods](understand_methods.html) (1 hour). Looking at the method section of a psychology article.
+
 ## 2nd week
 
 LECTURE: [Personality and psychometrics](dummy.pptx) (2 hour lecture) - A lecture on personality and basics of psychometrics. This is new to 2024, being a combination of parts of two previous lectures (Sonja's week 2 lecture, Tim's week 3 lecture). _Not yet written_. **AW**.
@@ -45,6 +47,8 @@ WORKSHOP: [Understanding correlations](understand_correlation.html) (2 hours). T
 LECTURE: [Statistical inference](statistical_inference.pptx) (2 hours) - Basics of probability. Multiplicative law. Type 1 and Type 2 errors. Cumulative probability. Sign test. Mann-Whitney test. One- and two-tailed tests. Correlation. **AW**. 
 
 WORKSHOP: [Ethics and materials](ethics_materials.html) (2 hours): Get the students to commit to a specific project, and to 1) complete an ethics form, 2) begin the process of developing the materials. **TA**
+
+TUTORIAL: [Understanding personality](understand_personality.html) (1 hour): Fill in some personality questionnaires and assess their validity and design. 
 
 ## 5th week
 
@@ -81,15 +85,19 @@ WORKSHOP: (2 hours) - Collect and analyze data, part two. **TA**.
 
 LECTURE: [Substance use and addiction 1](substance_addiction.pdf) (2 hours) - [Teacher's version with notes](substance_addiction_notes.pptx). The editable versions of these materials are too large for this website, unless compressed. Here are the ZIP archives for [student version](substance_addiction.pptx.zip) and [teachers' verison](substance_addiction_notes.pptx.zip) **MT**. 
 
-WORKSHOP: (1 hour) - Poster design and support, part one.
+WORKSHOP: (1 hour) - Poster design and support, part one. **TA**.
 
 **Lecture readings**: ? 
+
+## EASTER BREAK
+
+Three week break for Easter. There is no out-of-class support during this time.
 
 ## 10th week
 
 LECTURE: _Substance use and addiction 2_ (2 hours) - Same materials as previous week. **MT**
 
-WORKSHOP: (2 hours) - Poster support, part two.
+WORKSHOP: (2 hours) - Poster support, part two. **TA**
 
 **Lecture readings**: ? 
 
@@ -97,7 +105,9 @@ WORKSHOP: (2 hours) - Poster support, part two.
 
 "LECTURE" (2 hours) - [Poster presentations]() - In-class assessment. **AW, MT**
 
-WORKSHOP (1 hour): There is no workshop in 11th week.
+WORKSHOP (1 hour): There is no workshop in 11th week for this module. The co-taught module may by running a one-hour workshop.
+
+TUTORIAL (1 hour): [Reflections](reflections.html). Reflecting on the module and the year.
 
 ## 12th week
 
