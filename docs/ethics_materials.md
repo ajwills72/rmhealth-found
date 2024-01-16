@@ -5,12 +5,12 @@ The main purpose of this workshop is to get the students to commit to a specific
 1. Complete an ethics form. 
 2. Begin the process of developing the materials.  
 
-## Activity 1 (probably most of the workshop)
+## Activity 1 
 
 Get students to start working on their ethics form. I expect that this will be a relatively short document (1-2 pages), but that is clearly signals what they are going to do, and it allows us to get a handle on whether there are any potential issues.
 They should download the [ethics form](ethics.docx) and type directly into that document.
 
-Each group completes the document, and gets it provisionally approved by the TA - ideally before the workshop it over. Once they have provisional approval, they submit it to the module leader for formal approval. 
+Each group completes the document, and gets it provisionally approved by the TA. Once they have provisional approval, they submit it to the module leader for formal approval.
 
 Most applications are likely to be innocuous, but here are the red-flag issues to look for: 
 
@@ -36,7 +36,7 @@ Is there enough here to show that participants are able to give “informed” c
 
 Is there enough here to explain why the study was run? We're not expecting a full literature-based account, just an overview of the experiment.
 
-## Activity 2 (spare time if available)
+## Activity 2
 
 The aim of this activity is to get the group to think through the practicalities of the study, so that they all run it in the same manner.
 
@@ -50,3 +50,7 @@ Students often neglect the script, but this is crucial if they are all going to 
 
 The data protocol applies if they are using behavioural outcome measures that they have to rate, or score,  such that there is a chance for different (or biased) ways of scoring. i.e. not for a standardised test.
 For example, if it is a memory test, how will they deal with misspelt answers, or answers that are vague, or partially correct (etc).
+
+## Extension
+
+The next workshop ('counfounding factors') won't work that well until they've had the lecture, so if they're done early, finish early.

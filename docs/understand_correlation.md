@@ -26,6 +26,6 @@ These are just demonstrations that correlations are insensitive to linear transf
 
 These are demonstrations of the effects of transformations on slopes and intercepts, and so involve correlated variables.  (An advanced discussion point would be why the slopes don’t change in Exercises 3 and 4. This is because the slopes are effectively zero, and multiplying anything by zero is zero).
 
-## Exercise 7 
+## Exercise 7
 
-This is something different: this is a demonstration of the effect of summing noisy measures (on the correlation plot). Each score is weakly correlated to the true score, but as you add more measures together, so the noise is reduced and you get closer to the true score. This is shown in the stronger correlation values, and less "scatter" in the scatterplots. 
+This is something different: this is a demonstration of the effect of summing noisy measures (on the correlation plot). Each score is weakly correlated to the true score, but as you add more measures together, so the noise is reduced and you get closer to the true score. This is shown in the stronger correlation values, and less "scatter" in the scatterplots.

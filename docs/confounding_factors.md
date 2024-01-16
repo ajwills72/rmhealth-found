@@ -50,3 +50,7 @@ An advanced issue is how they can improve the reliability of their outcome measu
 The main thing to think about is whether their data will be appropriate for a correlational analysis. i.e. are they getting a continuous range of scores on both variables, with no outliers, no gaps in the data (etc)? How will they test for these things? (We will introduce them to a spreadsheet to check for these things in a later workshop, but for now, we want them to think about it). These problems may arise if they are using their own questionnaire.
 
 The other thing to think about is what they will do with incomplete questionnaire responses, e.g. people missing questions they don’t want to answer. They can’t just drop that score from the scale score, because it won’t be appropriate.
+
+## Extension
+
+If they're done, you can move on to the next workshop.
