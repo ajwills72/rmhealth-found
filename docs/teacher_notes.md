@@ -22,7 +22,7 @@ For the health psychology component, we use Morrison, V. and Bennett, P. (2016).
 
 ## 1st week
 
-LECTURE: [Science, truth, and ethics](science_truth_honesty.pptx) (2 hours). Module overview. Nature of knowledge and the scientific process. Nature of evidence in psychology, including normal distribution. Basics of ethical research. **AW.**
+LECTURE: Science, truth, and ethics. [Slides](science_truth_honesty.pptx), [teacher's notes](science_truth_honesty_teacher.html) (2 hours). Module overview. Nature of knowledge and the scientific process. Nature of evidence in psychology, including normal distribution. Basics of ethical research. **AW.**
 
 WORKSHOP: [Topic and ethics](topic_ethics.html) (2 hours). Introduce the students to the idea that they will be designing a group project, and start the process of thinking about ethical issues. They are not expected to come up with a final topic, or a final design in this workshop. **TA**.
 
