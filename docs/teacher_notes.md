@@ -18,7 +18,9 @@ As this is a Foundation-level module, there is no oversight from External Examin
 
 For the research methods component, we use the free and open textbook [Research Methods in Psychology](https://kpu.pressbooks.pub/psychmethods4e/) by Jhangiani et al. (2019, 4th edition). There is no charge for this book, and students can continue to use it once the course has ended.
 
-For the health psychology component, we use Morrison, V. and Bennett, P. (2016). _Introduction to Health Psychology_. Pearson. This is a restricted-access textbook. The library has four copies of the eBook. 
+For the health psychology component, we use Ogden, J. (2023). _Health Psychology_. Pearson. This is a restricted-access textbook. The library has three copies of the [eBook](https://ebookcentral.proquest.com/lib/plymouth/reader.action?docID=7233757). 
+
+For additional reading on health psychology, we use: Tarrant, M. & Hagger, M.S. (2022). _Health Psychology: Revisiting the Classic Studies_. Sage.
 
 ## 1st week
 
@@ -58,32 +60,25 @@ WORKSHOP: [Understanding correlations](understand_correlation.html) (1 hour). Th
 
 ## 6th week
 
-LECTURE: [Stress and coping](stress_coping.pptx) (2 hours) - [Teacher's version with notes](stress_coping_notes.pptx) **MT**.
+LECTURE: History of health psychology and models of health behaviour (2 hours) - This lecture covers the history of health psychology, including introducing students to the biopsychosocial model which integrates biological processes, psychological processes and social processes in explaining health and illness. The lecture also introduces students to common models of health behaviour that are often adopted in health psychology research. **MT**.
 
 WORKSHOP: (2 hours) - Collect and analyze data, Part One. **TA**.
 
-**Lecture readings**: ?
-
 ## 7th week
 
-LECTURE: [Diet and weight management](diet_weight.pptx) (2 hours) - [Teacher's version with notes](diet_weight_notes.pptx) **MT**.
+LECTURE: Classic studies in health psychology (2 hours) - This lecture gives a brief overview of so-called “classic studies” that have helped to define the course of health psychology, including: personality and health; fear appeals; placebo effects, health inequalities, and social networks and health. **MT**.
 
 WORKSHOP: (2 hours) - Collect and analyze data, part two. **TA**.
 
-**Lecture readings**: Morrison & Bennett (2016), Chapter 3, which covers: 
-What is health behaviour? Smoking, drinking, and illicit drug use.Unprotected sexual behaviour. Unhealthy diet. Obesity.
-
 ## 8th week
 
-LECTURE: [Exercise and physical activity](exercise.pptx) (2 hours) - [Teacher's version with notes](exercise_notes.pptx) **MT**.
+LECTURE:  Stress, health and illness (2 hours) - This lecture covers different perspectives on and definitions of stress, including the transactional model. It also covers different approaches to researching and measuring stress, including links to health. **MT**.
 
 WORKSHOP: (1 hour) - Poster design and support, part one. **TA**.
 
-**Lecture readings**: Morrison & Bennett (2016), first part of Chapter 4, pp. 88-107, which covers: Adherence behaviours, Diet, Exercise.
-
 ## 9th week
 
-LECTURE: [Substance use and addiction 1](substance_addiction.pdf) (2 hours) - [Teacher's version with notes](substance_addiction_notes.pptx). The editable versions of these materials are too large for this website, unless compressed. Here are the ZIP archives for [student version](substance_addiction.pptx.zip) and [teachers' verison](substance_addiction_notes.pptx.zip) **MT**. 
+LECTURE: Health psychology in practice (1): Consultation behaviours(2 hours) - This lecture examines why people perceive ill-health symptoms differently and why some, but not all, make the decision to seek medical help with symptoms. We will define the concept of patient “adherence” and examine some of the factors that influence it. We will also look at some work that has sought to improve patient adherence. **MT**. 
 
 WORKSHOP: (1 hour) - Poster support, part two. **TA**
 
@@ -95,7 +90,7 @@ Three-week break for Easter. There is no out-of-class support during this time.
 
 ## 10th week
 
-LECTURE: _Substance use and addiction 2_ (2 hours) - Same materials as previous week. **MT**
+LECTURE: Health psychology in practice (2): Bias and discrimination (2 hours) - This lecture examines how bias an discrimination impact people’s experiences of healthcare. We will distinguish between different types of bias, including that which exists at the individual level and that at the level of the healthcare system. We will also consider reseach that has looked at how to reduce bias. **MT**
 
 WORKSHOP: (2 hours) - Overflow. **TA**.
 
