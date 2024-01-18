@@ -20,8 +20,6 @@ For the research methods component, we use the free and open textbook [Research 
 
 For the health psychology component, we use Ogden, J. (2023). _Health Psychology_. Pearson. This is a restricted-access textbook. The library has three copies of the [eBook](https://ebookcentral.proquest.com/lib/plymouth/reader.action?docID=7233757). 
 
-For additional reading on health psychology, we use: Tarrant, M. & Hagger, M.S. (2022). _Health Psychology: Revisiting the Classic Studies_. Sage.
-
 ## 1st week
 
 LECTURE: Science, truth, and ethics. [Slides](science_truth_honesty.pptx), [teacher's notes](science_truth_honesty_teacher.html) (2 hours). Module overview. Nature of knowledge and the scientific process. Nature of evidence in psychology, including normal distribution. Basics of ethical research. **AW.**
