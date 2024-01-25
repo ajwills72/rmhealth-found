@@ -22,7 +22,7 @@ For the health psychology component, we use Morrison, V. and Bennett, P. (2016).
 
 ## 1st week
 
-LECTURE: Science, truth, and ethics. [Slides](science_truth_honesty.pptx), [teacher's notes](science_truth_honesty_teacher.html) (2 hours). Module overview. Nature of knowledge and the scientific process. Nature of evidence in psychology, including normal distribution. Basics of ethical research. **AW.**
+LECTURE: Science and truth. [Slides](science_truth_honesty.pptx), [teacher's notes](science_truth_honesty_teacher.html) (2 hours). Module overview. Nature of knowledge and the scientific process. Nature of evidence in psychology, including normal distribution.**AW.**
 
 WORKSHOP: [Topic and ethics](topic_ethics.html) (2 hours). Introduce the students to the idea that they will be designing a group project, and start the process of thinking about ethical issues. They are not expected to come up with a final topic, or a final design in this workshop. **TA**.
 
@@ -32,7 +32,7 @@ TUTORIAL: [Understanding methods](understand_methods.html) (1 hour). Looking at 
 
 ## 2nd week
 
-LECTURE: [Personality and psychometrics](dummy.pptx) (2 hour lecture) - A lecture on personality and basics of psychometrics. This is new to 2024, being a combination of parts of two previous lectures (Sonja's week 2 lecture, Tim's week 3 lecture). _Not yet written_. **AW**.
+LECTURE: [Ethics, psychometrics, and personality](psycho_pers.pptx) (2 hour lecture) -  Basics of ethical research. Principles of psychometrics. Personality tests. **AW**.
 
 WORKSHOP: [Ethics and materials](ethics_materials.html) (2 hours): Get the students to commit to a specific project, and to 1) complete an ethics form, 2) begin the process of developing the materials. **TA**
 
