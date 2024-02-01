@@ -1,6 +1,73 @@
 # Personality and psychometrics
 
-Tim's lecture, given I have to do the ethics stuff as well, is a full use of the session. 
+## My combined lecture (plan)
+
+General intro, break, 5past, 5to : 18, thus 100 minutes left
+Ethics (est.): 20
+Psychometrics (est.) : 69
+Personality has this left: 11
+
+| Time | Duration | Item |
+| ---- | -------- | ---- | 
+| 0:05 | 3  | General intro |
+| 0:08 | 1  | Ethical issues |
+| 0:09 | 8  | ACTIVITY: Discussion |
+| 0:17 | 1  | From principles to guidelines |
+| 0:18 | 1  | The ethics form should detail |
+| 0:19 | 1  | Ethical process |
+| 0:20 | 1  | Informed consent |
+| 0:21 | 1  | Treated with respect |
+| 0:22 | 1  | Right to withdraw |
+| 0:23 | 1  | Right to anonymity |
+| 0:24 | 1  | Brief, debrief |
+| 0:25 |    1      | Define psycho-metric |
+| 0:26 |    1      | Measurement of volume |
+| 0:27 |    3      | Reliability + validity (2 slides) | 
+| 0:30 |    1      | A crucial point... |
+| 0:31 |    1      | What it can measure |
+| 0:32 |    1      | Remember this slide? |
+| 0:33 |    1      | How could we develop... 
+| 0:34 |    6      | Back to reliability (some discussion) + reliability, predictability |
+| 0:40 |    2      | Scatterplots and correlations (3 slides) |
+| 0:42 |    1      | Correlations values | 
+| 0:43 |    2      | Positive versus negative correlations |
+| 0:45 |    1      | Some limitations of simple correlations |
+| 0:46 |    3      | Correlations only measure linear relationships |
+| 0:49 |    10     | BREAK |
+| 0:59 |    1      | Effects of restriction of range | 
+| 1:00 |    2      | Effects of extreme values |
+| 1:02 |    2      | breathing space |
+| 1:04 |    1      | Reliability of multiple-item scale | 
+| 1:05 |    2      | Increasing the reliability of a measure |
+| 1:07 |    3      | What if we take multiple measures (which is why personality tests have so many questions) |
+| 1:10 |    2      | If you have enough measures, you get an accurate reading |
+| 1:12 |     2     | The law of small numbers (2 slides) |
+| 1:14 |    1      | In the example on the next slide |
+| 1:15 |   1       | Small samples likely to give more extreme estimates of true average |
+| 1:16 |   1       | This is why we should be wary of media reports like this (London rather than St. Ives, Colchester) | 
+| 1:17 |    1      | Another more serious example |
+| 1:18 |    1      | Plot of raes of cancer, based on population |
+| 1:19 |    5      | 2011 BBC The wisdom of the crowd (N=160) |
+| 1:24 |    2      | Wisdom of the (large) crowd (2 slides) |
+
+
+| 1:26 |    3      | 3 thermometers - Activity (and hence dropping a question in a questionnaire) |
+| 1:29 |    2      | What is the difference between these 2 scenarios? (not even agreeing with itself - T3 isn't even reliable). THis is the difference between reliabliity and (a type of) validity |
+
+| 1:31 |    1      | Validity |
+| 1:32 |    1      | Face validity | 
+| 1:33 |    2      | Imagine a paper is folded - activity - it's number 3 |
+| 1:35 |    2      | Content validity | 
+| 1:37 |    1      | Predictive validity |
+| 1:38 |    1      | Discriminant validity |
+| 1:39 |    2      | Improving validity | 
+| 1:41 |    2      | Imagine this was the outcome | 
+| 1:43 |  11 total | Psychometrics of personality tests |
+|      |           | Woodworth |
+|      |           | Myers-Briggs |
+|      |           | NEO          |
+|      |           | Psychometrics of almost anything |
+| 1:55 |           | END | 
 
 
 ## Sonja's lecture
@@ -135,57 +202,62 @@ extraversion - spending more time with others
 conscientiousness - health behaviours; clean & tidy room
 nature connectedness
 
-## Tim's lecture
+## Tim's ethics
+
+
+
+## Tim's lecture 2
 
 | Time | Duration | Item |
 | ---- | -------- | ---- |
 | 0:16 |          | Specify reading  |
-| 0:16 |          | Define psycho-metric |
-| 0:17 |          | Measurement of volume |
-| 0:18 |          | Reliability + validity (2 slides) | 
-| 0:21 |          | A crucial point... |
-| 0:22 |          | What it can measure |
-| 0:23 |          | Remember this slide? |
-| 0:24 |          | How could we develop... (we could also add Sonja's bits here)
-| 0:25 |          | Back to reliability (some discussion) |
-| 0:31 |          | Scatterplots and correlations (two slides) |
-| 0:33 |          | Correlations values | 
-| 0:33 |          | Positive versus negative correlations |
-| 0:35 |          | Some limitations of simple correlations |
-| 0:36 |          | Activity 1 | 
-| 0:39 |          | Correlations only measure linear relationships |
-| 0:41 |          | Effects of restriction of range | 
-| 0:42 |          | Effects of extreme values |
-| 0:44 |          | Spontaneous questions |
-| 0:46 |          | Break |
-| 0:48 |          | Reliability of multiple-item scale | 
-| 0:49 |          | Increasing the reliability of a measure |
-| 0:51 |          | What if we take multiple measures (which is why personality tests have so many questions) |
-| 0:54 |          | If you have enough measures, you get an accurate reading |
-| 0:56 |          | The law of small numbers (2 slides) |
-| 0:58 |          | In the example on the next slide |
-| 0:59 |          | Small samples likely to give more extreme estimates of true average |
-| 1:00 |          | This is why we should be wary of media reports like this (London rather than St. Ives, Colchester) | 
-| 1:01 |          | Another more serious example |
-| 1:02 |          | Plot of raes of cancer, based on population |
-| 1:03 |          | 2011 BBC The wisdom of the crowd (N=160) |
-| 1:08 |          | Wisdom of the (large) crowd (2 slides) |
-| 1:10 |          | 3 thermometers - Activity (and hence dropping a question in a questionnaire) |
-| 1:13 |          | What is the difference between these 2 scenarios? (not even agreeing with itself - T3 isn't even reliable). THis is the difference between reliabliity and (a type of) validity |
-| 1:15 |          | Validity |
-| 1:15 |          | Face validity | 
-| 1:16 |          | Imagine a paper is folded - activity - it's number 3 |
-| 1:18 |          | Content validity | 
-| 1:20 |          | Predictive validity |
-| 1:21 |          | Discriminant validity |
-| 1:22 |          | Improving validity | 
-| 1:24 |          | Imagine this was the outcome | 
-| 1:26 |          | The use of psychometric tests in job selection | 
-| 1:28 |          | Problem 1 |
-| 1:29 |          | Problem 2 |
-| 1:30 |          | Problem 3 |
-| 1:31 |          | Selection issues with tests that vary in validity |
-| 1:33 |          | Selection issues: criterion |
+| 0:16 |    1      | Define psycho-metric |
+| 0:17 |    1      | Measurement of volume |
+| 0:18 |    3      | Reliability + validity (2 slides) | 
+| 0:21 |    1      | A crucial point... |
+| 0:22 |    1      | What it can measure |
+| 0:23 |    1      | Remember this slide? |
+| 0:24 |    1      | How could we develop... 
+| 0:25 |    6      | Back to reliability (some discussion) + reliability, predictability |
+| 0:31 |    2      | Scatterplots and correlations (3 slides) |
+| 0:33 |    1      | Correlations values | 
+| 0:33 |    2      | Positive versus negative correlations |
+| 0:35 |    1      | Some limitations of simple correlations |
+| 0:39 |    3      | Correlations only measure linear relationships |
+| 0:41 |    1      | Effects of restriction of range | 
+| 0:42 |    2      | Effects of extreme values |
+| 0:44 |    2      | Spontaneous questions |
+| 0:48 |    1      | Reliability of multiple-item scale | 
+| 0:49 |    2      | Increasing the reliability of a measure |
+| 0:51 |    3      | What if we take multiple measures (which is why personality tests have so many questions) |
+| 0:54 |    2      | If you have enough measures, you get an accurate reading |
+| 0:56 |     2     | The law of small numbers (2 slides) |
+| 0:58 |    1      | In the example on the next slide |
+| 0:59 |   1       | Small samples likely to give more extreme estimates of true average |
+| 1:00 |   1       | This is why we should be wary of media reports like this (London rather than St. Ives, Colchester) | 
+| 1:01 |    1      | Another more serious example |
+| 1:02 |    1      | Plot of raes of cancer, based on population |
+| 1:03 |    5      | 2011 BBC The wisdom of the crowd (N=160) |
+| 1:08 |    2      | Wisdom of the (large) crowd (2 slides) |
+| 1:10 |    3      | 3 thermometers - Activity (and hence dropping a question in a questionnaire) |
+| 1:13 |    2      | What is the difference between these 2 scenarios? (not even agreeing with itself - T3 isn't even reliable). THis is the difference between reliabliity and (a type of) validity |
+| 1:15 |    1      | Validity |
+| 1:15 |    1      | Face validity | 
+| 1:16 |    2      | Imagine a paper is folded - activity - it's number 3 |
+| 1:18 |    2      | Content validity | 
+| 1:20 |    1      | Predictive validity |
+| 1:21 |    1      | Discriminant validity |
+| 1:22 |    2      | Improving validity | 
+| 1:24 |    2      | Imagine this was the outcome | 
+
+## Tim's bit on job selection, which I cut
+
+| 1:26 |    2      | The use of psychometric tests in job selection | 
+| 1:28 |    1      | Problem 1 |
+| 1:29 |    1      | Problem 2 |
+| 1:30 |    1      | Problem 3 |
+| 1:31 |    2      | Selection issues with tests that vary in validity |
+| 1:33 |    2     | Selection issues: criterion |
 
 ...and it seems to end there. Rather abruptly.
 
