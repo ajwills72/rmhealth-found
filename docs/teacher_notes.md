@@ -38,13 +38,13 @@ WORKSHOP: [Ethics and materials](ethics_materials.html) (2 hours): Get the stude
 
 ## 3rd week
 
-LECTURE: [Experiments and data](experiments_data.pptx) (2 hours) - Experiments as manipulation. Independent and dependent variables. Ordinal, interval, and ratio measures. Noise and the need for statistics. Confounding variables. Between- versus within-subject designs. Counterbalancing and randomizing. Experimenter and instructional effects. Demand and expectancy effects. Problems with instructional manipulations, and solutions. Reducing noise. Noise versus generality. Quasi-experimental designs. Ceiling and floor effects. **AW**.
+LECTURE: [Experiments and data](experiments_data.pptx) (2 hours) - Experiments as manipulation. Independent and dependent variables. Ordinal, interval, and ratio measures. Noise and the need for statistics. Confounding variables. Between- versus within-subject designs. Counterbalancing and randomizing. Experimenter and instructional effects. Demand and expectancy effects. Problems with instructional manipulations, and solutions.  **AW**.
 
 WORKSHOP: (1 hour) - [Confounding factors](confounding_factors.html). Get students to think about how they are going to run their study in a way that makes it consistent (replicable).  **TA**
 
 ## 4th week
 
-LECTURE: [Statistical inference](statistical_inference.pptx) (2 hours) - Basics of probability. Multiplicative law. Type 1 and Type 2 errors. Cumulative probability. Sign test. Mann-Whitney test. One- and two-tailed tests. Correlation. **AW**. 
+LECTURE: [Experiments and statistics](statistical_inference.pptx) (2 hours) - Reducing noise. Noise versus generality. Quasi-experimental designs. Ceiling and floor effects. [Coin flip demo](coin-flips.pptx) Basics of probability. Multiplicative law. Type 1 and Type 2 errors. Cumulative probability. Sign test. Mann-Whitney test. [Stats spreadsheet](teaching_tool.xlsx) **AW**.
 
 WORKSHOP: (2 hours) - [Protocol and pilot](protocol_pilot.html). Write a protocol, and pilot the study. **TA**.
 
@@ -52,7 +52,7 @@ TUTORIAL: [Understanding personality](understand_personality.html) (1 hour): Fil
 
 ## 5th week
 
-LECTURE: [More stats, and posters](stats_posters.pptx) (2 hours) - _Stats_: Parametric and non-parametric tests. Sample size, effect size, and power. Statistical versus practical significance. Passing reference to Bayesian analysis. _Posters_: Scientific posters: Purpose. Title, Intro, Method, Results, Discussion. Non-text elements. Flow. **AW**.
+LECTURE: [More stats, and posters](stats_posters.pptx) (2 hours) - _Stats_: One- and two-tailed tests. Correlation. Parametric and non-parametric tests. Sample size, effect size, and power. Statistical versus practical significance. Passing reference to Bayesian analysis. _Posters_: Scientific posters: Purpose. Title, Intro, Method, Results, Discussion. Non-text elements. Flow. **AW**.
 
 WORKSHOP: [Understanding correlations](understand_correlation.html) (1 hour). The aim of this workshop is to get them to understand more about correlations: What they look like / How they are sensitive to outliers / How they are insensitive to linear transformations / What a regression line means. **TA**.
 
