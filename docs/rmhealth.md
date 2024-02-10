@@ -28,3 +28,6 @@
 - [Handout](understanding_correlations_student_notes.docx)
 - [Spreadsheet](understanding_correlations.xlsx), 
 
+### 6th to 8th week: Collecting and analyzing data
+
+- [Stats spreadsheet](teaching_tool.xlsx)
