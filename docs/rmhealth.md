@@ -28,6 +28,11 @@
 - [Handout](understanding_correlations_student_notes.docx)
 - [Spreadsheet](understanding_correlations.xlsx), 
 
-### 6th to 8th week: Collecting and analyzing data
+### 6th to 7th week: Collecting and analyzing data
 
 - [Stats spreadsheet](teaching_tool.xlsx)
+
+### 8th to 9th week: Poster design and support
+
+- [A1 poster template](poster-template.pptx)
+- [Example poster](example-poster.pptx)

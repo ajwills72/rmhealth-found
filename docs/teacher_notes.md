@@ -52,7 +52,7 @@ TUTORIAL: [Understanding personality](understand_personality.html) (1 hour): Fil
 
 ## 5th week
 
-LECTURE: [More stats, and posters](stats_posters.pptx) (2 hours) - _Stats_: One- and two-tailed tests. Correlation. Parametric and non-parametric tests. Sample size, effect size, and power. Statistical versus practical significance. Passing reference to Bayesian analysis. _Posters_: Scientific posters: Purpose. Title, Intro, Method, Results, Discussion. Non-text elements. Flow. **AW**.
+LECTURE: [More stats, and posters](stats_posters.pptx) (2 hours) - _Stats_: Correlation. Parametric and non-parametric tests. Sample size, effect size, and power. Statistical versus practical significance. _Posters_: Scientific posters: Purpose. Title, Intro, Method, Results, Discussion. Non-text elements. Flow. **AW**.
 
 WORKSHOP: [Understanding correlations](understand_correlation.html) (1 hour). The aim of this workshop is to get them to understand more about correlations: What they look like / How they are sensitive to outliers / How they are insensitive to linear transformations / What a regression line means. **TA**.
 
