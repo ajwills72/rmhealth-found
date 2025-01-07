@@ -50,7 +50,7 @@ WORKSHOP: (2 hours) - [Protocol and pilot](protocol_pilot.html). Write a protoco
 
 LECTURE: [More stats, and posters](stats_posters.pptx) (2 hours) - _Stats_: Correlation. Parametric and non-parametric tests. Sample size, effect size, and power. Statistical versus practical significance. _Posters_: Scientific posters: Purpose. Title, Intro, Method, Results, Discussion. Non-text elements. Flow. **AW**.
 
-WORKSHOP: [Understanding correlations](understand_correlation.html) (2 hour). The aim of this workshop is to get them to understand more about correlations: What they look like / How they are sensitive to outliers / How they are insensitive to linear transformations / What a regression line means. 
+WORKSHOP: [Understanding correlations](understand_correlation.html) (2 hour). The aim of this workshop is to get them to understand more about correlations: What they look like / How they are sensitive to outliers / How they are insensitive to linear transformations / What a regression line means. **TA**.
 
 ## 6th week
 
@@ -76,15 +76,11 @@ LECTURE: Health psychology in practice (1): Consultation behaviours(2 hours) - T
 
 WORKSHOP: (2 hour) - Poster support, part two. **TA**
 
-**Lecture readings**: ?
-
 ## 10th week
 
 LECTURE: Health psychology in practice (2): Bias and discrimination (2 hours) - This lecture examines how bias an discrimination impact people’s experiences of healthcare. We will distinguish between different types of bias, including that which exists at the individual level and that at the level of the healthcare system. We will also consider reseach that has looked at how to reduce bias. **MT**
 
 WORKSHOP: (2 hours) - Overflow. **TA**.
-
-**Lecture readings**: ? 
 
 ## 11th week
 
