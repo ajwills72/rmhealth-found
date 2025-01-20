@@ -36,3 +36,10 @@
 
 - [A1 poster template](poster-template.pptx)
 - [Example poster](example-poster.pptx)
+
+### 10th week: Overflow
+
+- Final workshop, no new materials.
+
+  
+  
