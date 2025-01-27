@@ -30,8 +30,8 @@ WORKSHOP: [Topic and ethics](topic_ethics.html) (2 hours). Introduce the student
 
 ## 2nd week
 
-LECTURE: [Ethics, psychometrics, and personality](psycho_pers.pptx) (2 hour lecture) -  Basics of ethical research. Principles of psychometrics. Personality tests. **AW**.
-
+LECTURE:Ethics and psychometrics. [Slides](ethics_psycho.pptx), [teacher's notes](ethics_psycho.html)(2 hour lecture) -  Basics of ethical research. Principles of psychometrics. **AW**.
+ 
 WORKSHOP: [Ethics and materials](ethics_materials.html) (2 hours): Get the students to commit to a specific project, and to 1) complete an ethics form, 2) begin the process of developing the materials. **TA**
 
 ## 3rd week
