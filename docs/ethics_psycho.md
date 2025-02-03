@@ -40,8 +40,7 @@
 | 1:42 | This is why we should be wary ... |
 | 1:45 | Another more serious example |
 | 1:47 | Plots of rates of cancer |
-| 1:49 | Wisdom of crowds video |
-| 1:54 | Wisdom of the (large) crowd |
+| 1:49 | (actually things ran about 6 minutes slower than indicated so...)
 | 1:55 | END |
 
 

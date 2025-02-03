@@ -36,7 +36,7 @@ WORKSHOP: [Ethics and materials](ethics_materials.html) (2 hours): Get the stude
 
 ## 3rd week
 
-LECTURE: [Experiments and data](experiments_data.pptx) (2 hours) - Experiments as manipulation. Independent and dependent variables. Ordinal, interval, and ratio measures. Noise and the need for statistics. Confounding variables. Between- versus within-subject designs. Counterbalancing and randomizing. Experimenter and instructional effects. Demand and expectancy effects. Problems with instructional manipulations, and solutions.  **AW**.
+LECTURE: Psychometrics, Personality, Experiments [Slides](lecture_3.pptx), [teacher's notes](lecture_3.html) (2 hours) - Experiments as manipulation. Independent and dependent variables. Ordinal, interval, and ratio measures. Noise and the need for statistics. Confounding variables. Between- versus within-subject designs. Counterbalancing and randomizing. Experimenter and instructional effects. Demand and expectancy effects. Problems with instructional manipulations, and solutions.  **AW**.
 
 WORKSHOP: (2 hour) - [Confounding factors](confounding_factors.html). Get students to think about how they are going to run their study in a way that makes it consistent (replicable).  **TA**
 
