@@ -42,7 +42,7 @@ WORKSHOP: (2 hour) - [Confounding factors](confounding_factors.html). Get studen
 
 ## 4th week
 
-LECTURE: [Experiments and statistics](statistical_inference.pptx) (2 hours) - Reducing noise. Noise versus generality. Quasi-experimental designs. Ceiling and floor effects. [Coin flip demo](coin-flips.pptx) Basics of probability. Multiplicative law. Type 1 and Type 2 errors. Cumulative probability. Sign test. Mann-Whitney test. [Stats spreadsheet](teaching_tool.xlsx) **AW**.
+LECTURE: Experiments and statistics [Slides](lecture_4.pptx), [teacher's notes](lecture_4.html)(2 hours) - Reducing noise. Noise versus generality. Quasi-experimental designs. Ceiling and floor effects. [Coin flip demo](coin-flips.pptx) Basics of probability. Multiplicative law. Type 1 and Type 2 errors. Cumulative probability. Sign test. Mann-Whitney test. [Stats spreadsheet](teaching_tool.xlsx) **AW**.
 
 WORKSHOP: (2 hours) - [Protocol and pilot](protocol_pilot.html). Write a protocol, and pilot the study. **TA**.
 
